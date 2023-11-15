@@ -1,4 +1,4 @@
-package br.dev.bs.avaliacao.utils;
+package br.dev.bs.avaliacao.core.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

@@ -1,8 +1,7 @@
 package br.dev.bs.avaliacao.domain.models;
 
-import br.dev.bs.avaliacao.utils.DataUtils;
+import br.dev.bs.avaliacao.core.utils.DataUtils;
 import jakarta.persistence.*;
-import jakarta.validation.constraints.NotNull;
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;

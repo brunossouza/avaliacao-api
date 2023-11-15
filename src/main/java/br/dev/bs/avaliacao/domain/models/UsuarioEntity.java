@@ -30,7 +30,7 @@ public class UsuarioEntity extends AbstractEntity {
 
     @Column(name = "tipo")
     @Enumerated(EnumType.STRING)
-    private TipoUsuario tipoUsuario;
+    private TipoUsuario tipo;
 
     @Column(name = "st_ativo")
     @NotNull(message = "O campo ativo é obrigatório")

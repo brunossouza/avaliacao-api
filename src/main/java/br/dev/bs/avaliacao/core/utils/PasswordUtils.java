@@ -1,4 +1,4 @@
-package br.dev.bs.avaliacao.utils;
+package br.dev.bs.avaliacao.core.utils;
 
 //TODO: Implementar criptografia
 public class PasswordUtils {
