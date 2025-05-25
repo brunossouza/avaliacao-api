@@ -1,7 +1,9 @@
 # avaliacao-api
 
-sistema de avaliação
+Sistema de avaliação desenvolvido exclusivamente para fins de estudo e aprendizado.
 
-Repositorio criado para estudo
+⚠️ **PROJETO INCOMPLETO** - Este repositório está em desenvolvimento e serve apenas como material de estudo. Não é recomendado para uso em produção.
 
-Teste.
+## Sobre o Projeto
+
+Este é um projeto educacional criado para explorar conceitos de desenvolvimento de APIs e sistemas de avaliação.
